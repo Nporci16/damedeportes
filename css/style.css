@@ -102,8 +102,9 @@ ul{
     height: 70px;
 }
 .gridaside{
-    background-color: black;
     color: white;
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(119,120,123,1) 44%, rgba(0,0,0,1) 100%);
 }
 .asideimg{
     width: 460px;
